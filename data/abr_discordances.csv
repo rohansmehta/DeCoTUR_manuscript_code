@@ -1,17 +1,3 @@
-"gene","discdat"
-"Aminocoumarins",51
-"Aminoglycosides",5455
-"Betalactams",2962
-"Betalactams (mec)",5691
-"Fluoroquinolones",76
-"Fosfomycin",1519
-"Fusidic Acid",208
-"Glycopeptides",5002
-"Lipopeptides",44
-"MLS",7934
-"Multi-Drug Resistance",924
-"Phenicol",932
-"Rifampin",51
-"Sulfonamides",46
-"Tetracyclines",6476
-"Trimethoprim",5479
+version https://git-lfs.github.com/spec/v1
+oid sha256:b9f6b9e556654abcda85c5c0f6199d73506fd2f6093ecb60231a568695ed1d31
+size 346

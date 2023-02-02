@@ -1,10 +1,3 @@
-"Clonal Complex","Distance Cutoff","No. Close Pairs"
-"CC97",4.97986002324883e-05,"5125"
-"CC93",3.8416063036491e-05,"4847"
-"CC15",2.1342257242495e-05,"4368"
-"CC1",9.95972004649766e-06,"4211"
-"CC45",8.536902896998e-06,"4177"
-"CC30",1.42281714949967e-06,"3566"
-"CC8",0,"5000"
-"CC5",0,"4397"
-"CC22",0,"5000"
+version https://git-lfs.github.com/spec/v1
+oid sha256:dad2cf30ed58be7503a7f34a8fa935d7351b2745fe7f450d25c07dba3fa7482c
+size 314
