@@ -1,0 +1,232 @@
+"","snp1","snp2","snpscoremats","snpscorematd","score","sum","disc1","disc2","fpval","fpvalbonferroni","fpvalbh"
+"1","Aminocoumarins","Aminoglycosides",7,19,19,26,51,5455,2.27625182533839e-10,5.25814171653169e-08,7.62049524135028e-10
+"2","Aminocoumarins","Bacitracin",0,0,0,0,51,0,1,1,1
+"3","Aminocoumarins","Betalactams",0,41,41,41,51,2962,2.1067390442619e-37,4.86656719224498e-35,1.1060379982375e-36
+"4","Aminocoumarins","Betalactams (mec)",0,36,36,36,51,5691,1.02482749372308e-19,2.36735151050032e-17,4.22741341160774e-19
+"5","Aminocoumarins","Cationic Antimicrobial Peptides",0,0,0,0,51,0,1,1,1
+"6","Aminocoumarins","Elfamycins",0,0,0,0,51,0,1,1,1
+"7","Aminocoumarins","Fluoroquinolones",51,0,51,51,51,76,2.47496490909762e-149,5.7171689400155e-147,2.5987131545525e-148
+"8","Aminocoumarins","Fosfomycin",0,0,0,0,51,1519,1,1,1
+"9","Aminocoumarins","Fusidic Acid",0,0,0,0,51,208,1,1,1
+"10","Aminocoumarins","Glycopeptides",0,0,0,0,51,5002,1,1,1
+"11","Aminocoumarins","Lipopeptides",44,0,44,44,51,44,1.01823889768746e-140,2.35213185365804e-138,9.04666097560831e-140
+"12","Aminocoumarins","MLS",28,0,28,28,51,7934,3.13477645137871e-08,7.24133360268482e-06,9.28376102908311e-08
+"13","Aminocoumarins","Multi-Drug Resistance",44,0,44,44,51,924,3.58798570455245e-65,8.28824697751616e-63,2.24006675068011e-64
+"14","Aminocoumarins","Mycobacterium Tuberculosis-Specific Drug",0,0,0,0,51,0,1,1,1
+"15","Aminocoumarins","Phenicol",2,1,2,3,51,932,0.115787662849578,1,0.275741753796417
+"16","Aminocoumarins","Rifampin",51,0,51,51,51,51,3.15816238630409e-169,7.29535511236245e-167,3.64767755618122e-168
+"17","Aminocoumarins","Sulfonamides",46,0,46,46,51,46,2.67883419746183e-148,6.18810699613683e-146,2.57837791505701e-147
+"18","Aminocoumarins","Tetracyclines",2,24,24,26,51,6476,9.75349373074889e-09,2.25305705180299e-06,2.96454875237236e-08
+"19","Aminocoumarins","Thiostrepton",0,0,0,0,51,0,1,1,1
+"20","Aminocoumarins","Trimethoprim",2,23,23,25,51,5479,1.60923328335476e-09,3.71732888454949e-07,5.16295678409652e-09
+"21","Aminocoumarins","Tunicamycin",0,0,0,0,51,0,1,1,1
+"22","Aminoglycosides","Bacitracin",0,0,0,0,5455,0,1,1,1
+"23","Aminoglycosides","Betalactams",1039,83,1039,1122,5455,2962,1.11433214649669e-263,2.57410725840735e-261,2.34009750764305e-262
+"24","Aminoglycosides","Betalactams (mec)",1847,302,1847,2149,5455,5691,0,0,0
+"25","Aminoglycosides","Cationic Antimicrobial Peptides",0,0,0,0,5455,0,1,1,1
+"26","Aminoglycosides","Elfamycins",0,0,0,0,5455,0,1,1,1
+"27","Aminoglycosides","Fluoroquinolones",8,31,31,39,5455,76,5.71145689312975e-15,1.31934654231297e-12,2.12797829405318e-14
+"28","Aminoglycosides","Fosfomycin",107,545,545,652,5455,1519,9.75760988272886e-181,2.25400788291037e-178,1.40875492681898e-179
+"29","Aminoglycosides","Fusidic Acid",72,35,72,107,5455,208,1.22663215773042e-38,2.83352028435726e-36,6.7464768675173e-38
+"30","Aminoglycosides","Glycopeptides",666,6,666,672,5455,5002,0.679340534600975,1,1
+"31","Aminoglycosides","Lipopeptides",7,17,17,24,5455,44,1.77601214389812e-10,4.10258805240466e-08,6.21604250364342e-10
+"32","Aminoglycosides","MLS",2956,350,2956,3306,5455,7934,0,0,0
+"33","Aminoglycosides","Multi-Drug Resistance",358,145,358,503,5455,924,1.53255497113533e-194,3.54020198332262e-192,2.95016831943551e-193
+"34","Aminoglycosides","Mycobacterium Tuberculosis-Specific Drug",0,0,0,0,5455,0,1,1,1
+"35","Aminoglycosides","Phenicol",147,97,147,244,5455,932,7.18323919960397e-25,1.65932825510852e-22,3.31865651021703e-24
+"36","Aminoglycosides","Rifampin",7,19,19,26,5455,51,2.27625182533838e-10,5.25814171653166e-08,7.62049524135028e-10
+"37","Aminoglycosides","Sulfonamides",2,19,19,21,5455,46,1.42517192780488e-07,3.29214715322928e-05,4.16727487750541e-07
+"38","Aminoglycosides","Tetracyclines",2166,346,2166,2512,5455,6476,0,0,0
+"39","Aminoglycosides","Thiostrepton",0,0,0,0,5455,0,1,1,1
+"40","Aminoglycosides","Trimethoprim",1958,268,1958,2226,5455,5479,0,0,0
+"41","Aminoglycosides","Tunicamycin",0,0,0,0,5455,0,1,1,1
+"42","Bacitracin","Betalactams",0,0,0,0,0,2962,1,1,1
+"43","Bacitracin","Betalactams (mec)",0,0,0,0,0,5691,1,1,1
+"44","Bacitracin","Cationic Antimicrobial Peptides",0,0,0,0,0,0,1,1,1
+"45","Bacitracin","Elfamycins",0,0,0,0,0,0,1,1,1
+"46","Bacitracin","Fluoroquinolones",0,0,0,0,0,76,1,1,1
+"47","Bacitracin","Fosfomycin",0,0,0,0,0,1519,1,1,1
+"48","Bacitracin","Fusidic Acid",0,0,0,0,0,208,1,1,1
+"49","Bacitracin","Glycopeptides",0,0,0,0,0,5002,1,1,1
+"50","Bacitracin","Lipopeptides",0,0,0,0,0,44,1,1,1
+"51","Bacitracin","MLS",0,0,0,0,0,7934,1,1,1
+"52","Bacitracin","Multi-Drug Resistance",0,0,0,0,0,924,1,1,1
+"53","Bacitracin","Mycobacterium Tuberculosis-Specific Drug",0,0,0,0,0,0,1,1,1
+"54","Bacitracin","Phenicol",0,0,0,0,0,932,1,1,1
+"55","Bacitracin","Rifampin",0,0,0,0,0,51,1,1,1
+"56","Bacitracin","Sulfonamides",0,0,0,0,0,46,1,1,1
+"57","Bacitracin","Tetracyclines",0,0,0,0,0,6476,1,1,1
+"58","Bacitracin","Thiostrepton",0,0,0,0,0,0,1,1,1
+"59","Bacitracin","Trimethoprim",0,0,0,0,0,5479,1,1,1
+"60","Bacitracin","Tunicamycin",0,0,0,0,0,0,1,1,1
+"61","Betalactams","Betalactams (mec)",2320,0,2320,2320,2962,5691,0,0,0
+"62","Betalactams","Cationic Antimicrobial Peptides",0,0,0,0,2962,0,1,1,1
+"63","Betalactams","Elfamycins",0,0,0,0,2962,0,1,1,1
+"64","Betalactams","Fluoroquinolones",0,41,41,41,2962,76,1.4141613258445e-26,3.2667126627008e-24,6.66676053612409e-26
+"65","Betalactams","Fosfomycin",50,443,443,493,2962,1519,1.49132609100531e-190,3.44496327022227e-188,2.46068805015876e-189
+"66","Betalactams","Fusidic Acid",14,0,14,14,2962,208,0.683137395021421,1,1
+"67","Betalactams","Glycopeptides",131,15,131,146,2962,5002,1,1,1
+"68","Betalactams","Lipopeptides",0,41,41,41,2962,44,3.66619718492668e-43,8.46891549718063e-41,2.06558914565381e-42
+"69","Betalactams","MLS",1072,160,1072,1232,2962,7934,2.56629951738936e-176,5.92815188516943e-174,3.48714816774672e-175
+"70","Betalactams","Multi-Drug Resistance",42,65,65,107,2962,924,2.99608007622466e-06,0.000692094497607896,8.33848792298669e-06
+"71","Betalactams","Mycobacterium Tuberculosis-Specific Drug",0,0,0,0,2962,0,1,1,1
+"72","Betalactams","Phenicol",76,18,76,94,2962,932,0.00148034746370714,0.341960264116349,0.00384225015861067
+"73","Betalactams","Rifampin",0,41,41,41,2962,51,2.10673904426191e-37,4.86656719224502e-35,1.1060379982375e-36
+"74","Betalactams","Sulfonamides",0,37,37,37,2962,46,6.83488626280279e-34,1.57885872670745e-31,3.43230157979879e-33
+"75","Betalactams","Tetracyclines",1016,102,1016,1118,2962,6476,2.09223201870733e-193,4.83305596321394e-191,3.71773535631842e-192
+"76","Betalactams","Thiostrepton",0,0,0,0,2962,0,1,1,1
+"77","Betalactams","Trimethoprim",579,49,579,628,2962,5479,1.62079885408206e-31,3.74404535292956e-29,7.96605394240333e-31
+"78","Betalactams","Tunicamycin",0,0,0,0,2962,0,1,1,1
+"79","Betalactams (mec)","Cationic Antimicrobial Peptides",0,0,0,0,5691,0,1,1,1
+"80","Betalactams (mec)","Elfamycins",0,0,0,0,5691,0,1,1,1
+"81","Betalactams (mec)","Fluoroquinolones",4,36,36,40,5691,76,3.54438674429104e-15,8.18753337931231e-13,1.36458889655205e-14
+"82","Betalactams (mec)","Fosfomycin",114,562,562,676,5691,1519,1.01437151068326e-187,2.34319818967834e-185,1.56213212645223e-186
+"83","Betalactams (mec)","Fusidic Acid",28,14,28,42,5691,208,0.0113403828527718,1,0.028474222162938
+"84","Betalactams (mec)","Glycopeptides",730,37,730,767,5691,5002,0.00924239196981225,1,0.0234614565387542
+"85","Betalactams (mec)","Lipopeptides",0,36,36,36,5691,44,1.60463827382908e-23,3.70671441254517e-21,7.26806747557876e-23
+"86","Betalactams (mec)","MLS",1913,511,1913,2424,5691,7934,0,0,0
+"87","Betalactams (mec)","Multi-Drug Resistance",130,105,130,235,5691,924,7.62907530738755e-20,1.76231639600652e-17,3.26354888149356e-19
+"88","Betalactams (mec)","Mycobacterium Tuberculosis-Specific Drug",0,0,0,0,5691,0,1,1,1
+"89","Betalactams (mec)","Phenicol",134,110,134,244,5691,932,2.47590436696924e-22,5.71933908769895e-20,1.09987290148057e-21
+"90","Betalactams (mec)","Rifampin",0,36,36,36,5691,51,1.02482749372309e-19,2.36735151050034e-17,4.22741341160774e-19
+"91","Betalactams (mec)","Sulfonamides",0,36,36,36,5691,46,2.74509393351272e-22,6.34116698641437e-20,1.19644660121026e-21
+"92","Betalactams (mec)","Tetracyclines",1656,276,1656,1932,5691,6476,3.14690512022061e-285,7.2693508277096e-283,7.2693508277096e-284
+"93","Betalactams (mec)","Thiostrepton",0,0,0,0,5691,0,1,1,1
+"94","Betalactams (mec)","Trimethoprim",1023,259,1023,1282,5691,5479,1.45761543466262e-86,3.36709165407066e-84,1.02033080426384e-85
+"95","Betalactams (mec)","Tunicamycin",0,0,0,0,5691,0,1,1,1
+"96","Cationic Antimicrobial Peptides","Elfamycins",0,0,0,0,0,0,1,1,1
+"97","Cationic Antimicrobial Peptides","Fluoroquinolones",0,0,0,0,0,76,1,1,1
+"98","Cationic Antimicrobial Peptides","Fosfomycin",0,0,0,0,0,1519,1,1,1
+"99","Cationic Antimicrobial Peptides","Fusidic Acid",0,0,0,0,0,208,1,1,1
+"100","Cationic Antimicrobial Peptides","Glycopeptides",0,0,0,0,0,5002,1,1,1
+"101","Cationic Antimicrobial Peptides","Lipopeptides",0,0,0,0,0,44,1,1,1
+"102","Cationic Antimicrobial Peptides","MLS",0,0,0,0,0,7934,1,1,1
+"103","Cationic Antimicrobial Peptides","Multi-Drug Resistance",0,0,0,0,0,924,1,1,1
+"104","Cationic Antimicrobial Peptides","Mycobacterium Tuberculosis-Specific Drug",0,0,0,0,0,0,1,1,1
+"105","Cationic Antimicrobial Peptides","Phenicol",0,0,0,0,0,932,1,1,1
+"106","Cationic Antimicrobial Peptides","Rifampin",0,0,0,0,0,51,1,1,1
+"107","Cationic Antimicrobial Peptides","Sulfonamides",0,0,0,0,0,46,1,1,1
+"108","Cationic Antimicrobial Peptides","Tetracyclines",0,0,0,0,0,6476,1,1,1
+"109","Cationic Antimicrobial Peptides","Thiostrepton",0,0,0,0,0,0,1,1,1
+"110","Cationic Antimicrobial Peptides","Trimethoprim",0,0,0,0,0,5479,1,1,1
+"111","Cationic Antimicrobial Peptides","Tunicamycin",0,0,0,0,0,0,1,1,1
+"112","Elfamycins","Fluoroquinolones",0,0,0,0,0,76,1,1,1
+"113","Elfamycins","Fosfomycin",0,0,0,0,0,1519,1,1,1
+"114","Elfamycins","Fusidic Acid",0,0,0,0,0,208,1,1,1
+"115","Elfamycins","Glycopeptides",0,0,0,0,0,5002,1,1,1
+"116","Elfamycins","Lipopeptides",0,0,0,0,0,44,1,1,1
+"117","Elfamycins","MLS",0,0,0,0,0,7934,1,1,1
+"118","Elfamycins","Multi-Drug Resistance",0,0,0,0,0,924,1,1,1
+"119","Elfamycins","Mycobacterium Tuberculosis-Specific Drug",0,0,0,0,0,0,1,1,1
+"120","Elfamycins","Phenicol",0,0,0,0,0,932,1,1,1
+"121","Elfamycins","Rifampin",0,0,0,0,0,51,1,1,1
+"122","Elfamycins","Sulfonamides",0,0,0,0,0,46,1,1,1
+"123","Elfamycins","Tetracyclines",0,0,0,0,0,6476,1,1,1
+"124","Elfamycins","Thiostrepton",0,0,0,0,0,0,1,1,1
+"125","Elfamycins","Trimethoprim",0,0,0,0,0,5479,1,1,1
+"126","Elfamycins","Tunicamycin",0,0,0,0,0,0,1,1,1
+"127","Fluoroquinolones","Fosfomycin",23,0,23,23,76,1519,4.47567900712602e-15,1.03388185064611e-12,1.69488827974772e-14
+"128","Fluoroquinolones","Fusidic Acid",7,0,7,7,76,208,1.4989187643708e-07,3.46250234569656e-05,4.3281279321207e-07
+"129","Fluoroquinolones","Glycopeptides",0,0,0,0,76,5002,1,1,1
+"130","Fluoroquinolones","Lipopeptides",44,0,44,44,76,44,2.37076627506126e-127,5.47647009539152e-125,1.95588217692554e-126
+"131","Fluoroquinolones","MLS",30,9,30,39,76,7934,9.25252542816099e-10,2.13733337390519e-07,3.05333339129313e-09
+"132","Fluoroquinolones","Multi-Drug Resistance",65,2,65,67,76,924,2.46104299002674e-100,5.68500930696176e-98,1.89500310232059e-99
+"133","Fluoroquinolones","Mycobacterium Tuberculosis-Specific Drug",0,0,0,0,76,0,1,1,1
+"134","Fluoroquinolones","Phenicol",2,2,2,4,76,932,0.101576742880656,1,0.246991869530859
+"135","Fluoroquinolones","Rifampin",51,0,51,51,76,51,2.47496490909759e-149,5.71716894001544e-147,2.5987131545525e-148
+"136","Fluoroquinolones","Sulfonamides",46,0,46,46,76,46,1.47315102855211e-133,3.40297887595537e-131,1.26036254665014e-132
+"137","Fluoroquinolones","Tetracyclines",3,39,39,42,76,6476,7.49363396577878e-15,1.7310294460949e-12,2.74766578745222e-14
+"138","Fluoroquinolones","Thiostrepton",0,0,0,0,76,0,1,1,1
+"139","Fluoroquinolones","Trimethoprim",14,23,23,37,76,5479,2.70654026370273e-13,6.25210800915332e-11,9.76891876430206e-13
+"140","Fluoroquinolones","Tunicamycin",0,0,0,0,76,0,1,1,1
+"141","Fosfomycin","Fusidic Acid",10,12,12,22,1519,208,1.59474591019339e-05,0.00368386305254674,4.33395653240793e-05
+"142","Fosfomycin","Glycopeptides",72,32,72,104,1519,5002,0.999999999999915,1,1
+"143","Fosfomycin","Lipopeptides",0,0,0,0,1519,44,1,1,1
+"144","Fosfomycin","MLS",95,683,683,778,1519,7934,3.6716794856298e-171,8.48157961180485e-169,4.46398926937097e-170
+"145","Fosfomycin","Multi-Drug Resistance",178,20,178,198,1519,924,2.76156866825965e-91,6.37922362367979e-89,1.99350738239993e-90
+"146","Fosfomycin","Mycobacterium Tuberculosis-Specific Drug",0,0,0,0,1519,0,1,1,1
+"147","Fosfomycin","Phenicol",69,28,69,97,1519,932,3.7125443639238e-19,8.57597748066398e-17,1.50455745274807e-18
+"148","Fosfomycin","Rifampin",0,0,0,0,1519,51,1,1,1
+"149","Fosfomycin","Sulfonamides",0,0,0,0,1519,46,1,1,1
+"150","Fosfomycin","Tetracyclines",56,798,798,854,1519,6476,2.71480375607756e-292,6.27119667653917e-290,6.96799630726575e-291
+"151","Fosfomycin","Thiostrepton",0,0,0,0,1519,0,1,1,1
+"152","Fosfomycin","Trimethoprim",74,440,440,514,1519,5479,1.17757212661308e-92,2.72019161247621e-90,8.77481165314907e-92
+"153","Fosfomycin","Tunicamycin",0,0,0,0,1519,0,1,1,1
+"154","Fusidic Acid","Glycopeptides",19,9,19,28,208,5002,0.368297293000077,1,0.859360350333513
+"155","Fusidic Acid","Lipopeptides",0,0,0,0,208,44,1,1,1
+"156","Fusidic Acid","MLS",51,44,51,95,208,7934,2.98900935934836e-17,6.90461162009472e-15,1.19045027932668e-16
+"157","Fusidic Acid","Multi-Drug Resistance",58,8,58,66,208,924,7.64604923992303e-56,1.76623737442222e-53,4.41559343605555e-55
+"158","Fusidic Acid","Mycobacterium Tuberculosis-Specific Drug",0,0,0,0,208,0,1,1,1
+"159","Fusidic Acid","Phenicol",4,3,4,7,208,932,0.21334222865677,1,0.502878110405243
+"160","Fusidic Acid","Rifampin",0,0,0,0,208,51,1,1,1
+"161","Fusidic Acid","Sulfonamides",0,0,0,0,208,46,1,1,1
+"162","Fusidic Acid","Tetracyclines",42,11,42,53,208,6476,0.000392538335473868,0.0906763554944635,0.0010304131306189
+"163","Fusidic Acid","Thiostrepton",0,0,0,0,208,0,1,1,1
+"164","Fusidic Acid","Trimethoprim",19,25,25,44,208,5479,0.00202392007709717,0.467525537809447,0.00519472819788274
+"165","Fusidic Acid","Tunicamycin",0,0,0,0,208,0,1,1,1
+"166","Glycopeptides","Lipopeptides",0,0,0,0,5002,44,1,1,1
+"167","Glycopeptides","MLS",320,179,320,499,5002,7934,1,1,1
+"168","Glycopeptides","Multi-Drug Resistance",42,28,42,70,5002,924,0.999999602340614,1,1
+"169","Glycopeptides","Mycobacterium Tuberculosis-Specific Drug",0,0,0,0,5002,0,1,1,1
+"170","Glycopeptides","Phenicol",52,53,53,105,5002,932,0.887450955348623,1,1
+"171","Glycopeptides","Rifampin",0,0,0,0,5002,51,1,1,1
+"172","Glycopeptides","Sulfonamides",0,0,0,0,5002,46,1,1,1
+"173","Glycopeptides","Tetracyclines",253,245,253,498,5002,6476,1,1,1
+"174","Glycopeptides","Thiostrepton",0,0,0,0,5002,0,1,1,1
+"175","Glycopeptides","Trimethoprim",591,531,591,1122,5002,5479,4.22088790719945e-73,9.75025106563074e-71,2.78578601875164e-72
+"176","Glycopeptides","Tunicamycin",0,0,0,0,5002,0,1,1,1
+"177","Lipopeptides","MLS",23,0,23,23,44,7934,1.67885495387728e-06,0.000387815494345652,4.7294572481177e-06
+"178","Lipopeptides","Multi-Drug Resistance",44,0,44,44,44,924,3.60927999169072e-73,8.33743678080557e-71,2.45218728847222e-72
+"179","Lipopeptides","Mycobacterium Tuberculosis-Specific Drug",0,0,0,0,44,0,1,1,1
+"180","Lipopeptides","Phenicol",2,1,2,3,44,932,0.0827039443963315,1,0.205425926403791
+"181","Lipopeptides","Rifampin",44,0,44,44,44,51,1.01823889768752e-140,2.35213185365816e-138,9.04666097560831e-140
+"182","Lipopeptides","Sulfonamides",39,0,39,39,44,46,3.99309357774181e-120,9.22404616458357e-118,3.18070557399434e-119
+"183","Lipopeptides","Tetracyclines",2,17,17,19,44,6476,2.08039013145801e-05,0.004805701203668,5.5880246554279e-05
+"184","Lipopeptides","Thiostrepton",0,0,0,0,44,0,1,1,1
+"185","Lipopeptides","Trimethoprim",2,22,22,24,44,5479,1.94792724909327e-10,4.49971194540544e-08,6.71598797821708e-10
+"186","Lipopeptides","Tunicamycin",0,0,0,0,44,0,1,1,1
+"187","MLS","Multi-Drug Resistance",214,185,214,399,7934,924,4.30896083729891e-60,9.95369953416049e-58,2.61939461425276e-59
+"188","MLS","Mycobacterium Tuberculosis-Specific Drug",0,0,0,0,7934,0,1,1,1
+"189","MLS","Phenicol",141,117,141,258,7934,932,3.32087256674508e-09,7.67121562918114e-07,1.03982974663747e-08
+"190","MLS","Rifampin",28,0,28,28,7934,51,3.13477645137869e-08,7.24133360268478e-06,9.28376102908311e-08
+"191","MLS","Sulfonamides",23,0,23,23,7934,46,4.5313233742678e-06,0.00104673569945586,1.24611392792365e-05
+"192","MLS","Tetracyclines",2163,566,2163,2729,7934,6476,0,0,0
+"193","MLS","Thiostrepton",0,0,0,0,7934,0,1,1,1
+"194","MLS","Trimethoprim",1392,515,1392,1907,7934,5479,6.41785585970846e-175,1.48252470359265e-172,8.23624835329252e-174
+"195","MLS","Tunicamycin",0,0,0,0,7934,0,1,1,1
+"196","Multi-Drug Resistance","Mycobacterium Tuberculosis-Specific Drug",0,0,0,0,924,0,1,1,1
+"197","Multi-Drug Resistance","Phenicol",27,14,27,41,924,932,7.90635344479349e-05,0.018263676457473,0.000209927315603137
+"198","Multi-Drug Resistance","Rifampin",44,0,44,44,924,51,3.58798570455255e-65,8.28824697751639e-63,2.24006675068011e-64
+"199","Multi-Drug Resistance","Sulfonamides",39,0,39,39,924,46,3.14689265460151e-57,7.26932203212949e-55,1.86392872618705e-56
+"200","Multi-Drug Resistance","Tetracyclines",86,202,202,288,924,6476,2.28758523674161e-30,5.28432189687312e-28,1.1009003951819e-29
+"201","Multi-Drug Resistance","Thiostrepton",0,0,0,0,924,0,1,1,1
+"202","Multi-Drug Resistance","Trimethoprim",54,164,164,218,924,5479,1.8389988615835e-16,4.24808737025788e-14,7.20014808518285e-16
+"203","Multi-Drug Resistance","Tunicamycin",0,0,0,0,924,0,1,1,1
+"204","Mycobacterium Tuberculosis-Specific Drug","Phenicol",0,0,0,0,0,932,1,1,1
+"205","Mycobacterium Tuberculosis-Specific Drug","Rifampin",0,0,0,0,0,51,1,1,1
+"206","Mycobacterium Tuberculosis-Specific Drug","Sulfonamides",0,0,0,0,0,46,1,1,1
+"207","Mycobacterium Tuberculosis-Specific Drug","Tetracyclines",0,0,0,0,0,6476,1,1,1
+"208","Mycobacterium Tuberculosis-Specific Drug","Thiostrepton",0,0,0,0,0,0,1,1,1
+"209","Mycobacterium Tuberculosis-Specific Drug","Trimethoprim",0,0,0,0,0,5479,1,1,1
+"210","Mycobacterium Tuberculosis-Specific Drug","Tunicamycin",0,0,0,0,0,0,1,1,1
+"211","Phenicol","Rifampin",2,1,2,3,932,51,0.115787662849578,1,0.275741753796417
+"212","Phenicol","Sulfonamides",2,1,2,3,932,46,0.0916891367170362,1,0.225321176400376
+"213","Phenicol","Tetracyclines",208,95,208,303,932,6476,1.36634723662836e-35,3.15626211661152e-33,7.01391581469227e-35
+"214","Phenicol","Thiostrepton",0,0,0,0,932,0,1,1,1
+"215","Phenicol","Trimethoprim",92,107,107,199,932,5479,6.83411487671619e-11,1.57868053652144e-08,2.42873928695606e-10
+"216","Phenicol","Tunicamycin",0,0,0,0,932,0,1,1,1
+"217","Rifampin","Sulfonamides",46,0,46,46,51,46,2.67883419746183e-148,6.18810699613683e-146,2.57837791505701e-147
+"218","Rifampin","Tetracyclines",2,24,24,26,51,6476,9.75349373074889e-09,2.25305705180299e-06,2.96454875237236e-08
+"219","Rifampin","Thiostrepton",0,0,0,0,51,0,1,1,1
+"220","Rifampin","Trimethoprim",2,23,23,25,51,5479,1.60923328335476e-09,3.71732888454949e-07,5.16295678409652e-09
+"221","Rifampin","Tunicamycin",0,0,0,0,51,0,1,1,1
+"222","Sulfonamides","Tetracyclines",2,23,23,25,46,6476,3.33105633121961e-09,7.69474012511729e-07,1.03982974663747e-08
+"223","Sulfonamides","Thiostrepton",0,0,0,0,46,0,1,1,1
+"224","Sulfonamides","Trimethoprim",2,19,19,21,46,5479,1.53778177579048e-07,3.55227590207601e-05,4.38552580503211e-07
+"225","Sulfonamides","Tunicamycin",0,0,0,0,46,0,1,1,1
+"226","Tetracyclines","Thiostrepton",0,0,0,0,6476,0,1,1,1
+"227","Tetracyclines","Trimethoprim",1837,212,1837,2049,6476,5479,0,0,0
+"228","Tetracyclines","Tunicamycin",0,0,0,0,6476,0,1,1,1
+"229","Thiostrepton","Trimethoprim",0,0,0,0,0,5479,1,1,1
+"230","Thiostrepton","Tunicamycin",0,0,0,0,0,0,1,1,1
+"231","Trimethoprim","Tunicamycin",0,0,0,0,5479,0,1,1,1
