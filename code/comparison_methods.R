@@ -1,4 +1,6 @@
-setwd(~/Github/DeCoTUR_manuscript_code)
+setwd('~/GitHub/DeCoTUR_manuscript_code')
+source('code/helper_functions.R')
+library(stringr)
 # different methods results comparison
 
 for(sp in c(100, 500, 1000)){
@@ -16,7 +18,7 @@ for(sp in c(100, 500, 1000)){
 # let's do the cp-effect plot first.
 data100 <- read.csv('data/decotur_100.csv')
 data500 <- read.csv('data/decotur_500.csv')
-data1000 <- read.csv('data/decotur_1000.csv')
+data1000 <- read.csv('data/decotur_1000/decotur_1000.csv')
 data100$sign <- (-1)^(data100$PositiveAssociation < data100$NegativeAssociation)
 data500$sign <- (-1)^(data500$PositiveAssociation < data500$NegativeAssociation)
 data1000$sign <- (-1)^(data1000$PositiveAssociation < data1000$NegativeAssociation)
@@ -76,6 +78,7 @@ dc2$coinfindernlp[which(dc2$coinfinder < 0)] <- log10(-dc2$coinfinder[which(dc2$
 dcp <- ggplot(dc2, aes(x = decotur, y = coinfindernlp)) + geom_point(alpha = 0.1) + theme_bw() + 
   xlab('Coevolution Score (DeCoTUR)') + 
   ylab('Negative Log P-value (Coinfinder)') + geom_hline(yintercept = 0) + geom_vline(xintercept = 0)
+summary(lm(coinfindernlp~decotur, dc2))
 #ggsave('dcplot.pdf',dcp)  
 spy <- read.csv('data/gene_pa_spydrpick500_1000_noa.csv')
 spy$pair <- paste0(spy$GeneA, spy$GeneB)
@@ -95,7 +98,8 @@ dspalt <- ggplot(ds2, aes(x = decotur, y = MIs)) + geom_point(alpha = 0.1) + the
   xlab('Coevolution Score (DeCoTUR)') + 
   ylab('Mutual Information (SpydrPick)') + geom_hline(yintercept = 0) + geom_vline(xintercept = 0)
 #ggsave('dsplotalt.pdf',dspalt) 
+cor(ds2$MIs, ds2$decotur)
 
 library(cowplot)
 both <- plot_grid(dcp, dspalt, labels = c('A', 'B'))
-save_plot('figures/methods_comparison.pdf', both, base_asp = 2)
+save_plot('figures/methods_comparison.pdf', both, base_asp = 2.2)

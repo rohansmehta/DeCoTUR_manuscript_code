@@ -7,10 +7,10 @@ library(pbapply)
 source("code/helper_functions.R")
 # Now we read in the scores
 scores <- read.csv('data/panaroo_decotur.csv', stringsAsFactors = F)
+os <- scores
 # We now add the graph distances to this dataset, but for interpretability
 # if we want, we can remove all interactions involving unidentified gene clusters ("group_XXXXX")
 # os <- subset(scores, !str_detect(Trait1, 'group') & !str_detect(Trait2, 'group')) %>% arrange(Trait1, Trait2)
-os <- scores
 pssd <- read.csv('data/graph_distance_processed.csv', stringsAsFactors = F)
 # the order of the genes in pssd within a pair can be different from that in os.
 # first, we create two pair labels, one with each order
@@ -40,6 +40,10 @@ os <- read.csv('data/panaroo_decotur_withdist.csv', stringsAsFactors = F)
 # Now we make the figures
 os$score <- os$Score * (-1)^(os$PositiveAssociation < os$NegativeAssociation)
 oss <- subset(os, !is.na(dist))
+devtools::install_github("EdwinTh/ggoutlier")
+library(ggoutlier)
+hist <- ggoutlier_hist(oss, "score", -60, 60, fill = 'gray') + theme_bw() + xlab('Score') + ylab('Count')
+ggsave('figures/score_histogram.pdf', hist)
 oss$cat <- 1 * (oss$Score > 60 & oss$dist < 30) + 2 * (oss$Score > 25 & oss$dist > 30)
 oss1 <- subset(oss, Score > 15)
 # OK I think that removing all points that are <= 15 Score removes 97.8 = 98% of the data points while still getting
