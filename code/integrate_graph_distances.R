@@ -40,9 +40,14 @@ os <- read.csv('data/panaroo_decotur_withdist.csv', stringsAsFactors = F)
 # Now we make the figures
 os$score <- os$Score * (-1)^(os$PositiveAssociation < os$NegativeAssociation)
 oss <- subset(os, !is.na(dist))
-devtools::install_github("EdwinTh/ggoutlier")
+#devtools::install_github("EdwinTh/ggoutlier")
 library(ggoutlier)
-hist <- ggoutlier_hist(oss, "score", -60, 60, fill = 'gray') + theme_bw() + xlab('Score') + ylab('Count')
+hist <- ggplot(oss) + geom_histogram(aes(x = score), fill = 'gray80') +  theme_bw(base_size = 18) + xlab('Score') + ylab('Count') + 
+  scale_y_log10() + geom_vline(xintercept = c(-25, 25), linetype = 'dashed', linewidth=1, color = 'blue') + 
+  geom_vline(xintercept = c(-60, 60), linetype = 'dashed', linewidth=1, color = 'orange') + 
+  scale_x_continuous(breaks = c(-100, -60, -25, 0, 25, 60, 100), limits = c(-100, 100))
+#hist <- ggoutlier_hist(oss, "score", -60, 60, fill = 'gray') + theme_bw() + xlab('Score') + ylab('Count') + 
+# scale_y_log10()
 ggsave('figures/score_histogram.pdf', hist)
 oss$cat <- 1 * (oss$Score > 60 & oss$dist < 30) + 2 * (oss$Score > 25 & oss$dist > 30)
 oss1 <- subset(oss, Score > 15)
